@@ -1,2 +1,2 @@
 # artunn.github.io
-An amazing mocking tool: Geniusify -> artunn.github.io/geniusify
+<a href="artunn.github.io/geniusify">An amazing mocking tool: Geniusify</a>
