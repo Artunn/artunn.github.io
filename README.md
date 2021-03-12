@@ -1,3 +1,7 @@
-# artunn.github.io
-<a href="https://artunn.github.io/geniusify">An amazing mocking tool: Geniusify</a> <br>
-<a href="https://github.com/Artunn/geniusify">Github link of Geniusify</a>
+Artun Cura's portfolio page.
+
+# License
+This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
+
+
+
